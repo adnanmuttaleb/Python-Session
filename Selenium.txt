@@ -1,0 +1,14 @@
+While there are so many automation frameworks available in market, deciding upon which one to use is the most difficult task.
+Let's discuss why Selenium should be used. Following are some of it's features
+1. Open source 
+2. Selenium supports:
+        a. Different browsers - Chrome, FF, IE, Opera
+        b. Different languages - Java, C#, Python, PHP, etc
+        c. Different OS - Windows, Mac, Linux, etc
+        d. Usage of wide range of IDEs - Eclipse, Netbeans, Visual Studio
+3. Allows Cross browser testing using TestNG
+4. Creating test reports - Allows integrating frameworks such as TestNG, JUnit for generating reports
+5. Image based testing - Allows integrating Sikuli tool for testing images
+6. Allow multiple test cases execution using Selenium Grid
+7. Database testing - Using JDBC connectivity
+8. Selenium IDE allows recording and playing back user actions which can be used in generating scripts

@@ -1,0 +1,17 @@
+. What is Programming
+. Model of Program
+    . Input
+    . Processing 
+    . Output
+. Programming Languages
+. What is Python
+. Some Statistics about Python (Why Python)
+. What I can do with Python? (With Examples)
+    . Web Programming
+    . Data Analysis
+    . Data Visualization
+    . Predictions 
+    . Scientific Computing
+    . Data Scraping 
+    . Web Testing Automation
+. Coding with Python (Exploring Syntax)
