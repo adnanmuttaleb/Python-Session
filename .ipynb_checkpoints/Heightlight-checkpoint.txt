@@ -14,4 +14,7 @@
     . Scientific Computing
     . Data Scraping 
     . Web Testing Automation
+. In which cases, I should not use Python? 
 . Coding with Python (Exploring Syntax)
+. Data Profiling example
+. Emulation of user interaction with browser
